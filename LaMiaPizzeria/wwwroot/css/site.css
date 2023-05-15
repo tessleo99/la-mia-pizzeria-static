@@ -17,6 +17,11 @@ body {
   margin-bottom: 60px;
 }
 
-text-colour {
-    color: blue;
+.text-colour {
+    color: #FF8C00;
+}
+
+.img-size {
+    
+    height: 200px;
 }
